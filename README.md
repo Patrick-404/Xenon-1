@@ -1,2 +1,9 @@
 # Warning ⚠️
-No Record, If you record this script, the result will be an error!!
+No Record, Don't change the text in the script, then if you change it you will get an error!!
+
+
+
+
+
+
+copyright ©️ xenon-bot
